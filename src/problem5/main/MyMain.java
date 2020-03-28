@@ -22,5 +22,5 @@ public class MyMain {
         m.printQueue();
 
         m.process(new Scanner(System.in).next());
-    }
+    }   
 }
