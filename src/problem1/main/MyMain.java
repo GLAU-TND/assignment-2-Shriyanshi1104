@@ -22,7 +22,7 @@ public abstract class MyMain {
         mst.insert(root, 7);
         mst.insert(root, 12);
         mst.insert(root, 30);
-        mst.insert(root, 25);
+        mst.insert(root, 25); 
         mst.insert(root, 40);
         mst.insert(root, 45);
         mst.insert(root, 6);
